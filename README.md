@@ -33,6 +33,11 @@ This solution has some interesting implications in pure and applied combinatoric
 * Use your timeout/timer code that you wrote as a guideline to implement faster solutions
 * As you build more optimal solutions, implement the functionality to let the user pick a solution algorithm and display the resulting efficiency/time gains
 
+## Super-Extra Credit:
+* Give the user the ability to pick between queens and rooks
+* Implement the non-attacking queens validator/solver
+
 ## References
+* http://www.ams.org/bookstore/pspdf/mbk-63-prev.pdf (page 265)
 * http://mathworld.wolfram.com/RooksProblem.html
 * http://en.wikipedia.org/wiki/Rook_polynomial
