@@ -6,7 +6,7 @@ This solution has some interesting implications in pure and applied combinatoric
 
 # Exercise: n-rooks solutions calculator
 
-* Develop an n-rooks solutions calculator by implementing [backbone.js](http://backbonejs.org/ "backbone.js"), and [underscore.js](http://underscorejs.org/ "underscore.js") and using [jasmine](http://pivotal.github.com/jasmine/ "jasmine") for testing your code
+* Develop an n-rooks solutions calculator by implementing [backbone.js](http://backbonejs.org/ "backbone.js"), and [underscore.js](http://underscorejs.org/ "underscore.js") and using [jasmine](https://jasmine.github.io/ "jasmine") for testing your code
 * Make sure to drive out your logic first by writing jasmine specs for your models
   * Your models should capture all the details of the problem
 * Views should be implemented with [mustache](http://mustache.github.com/ "mustache") or with similar templating tool
